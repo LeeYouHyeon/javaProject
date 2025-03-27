@@ -29,9 +29,9 @@ public class MainController {
 
 		try {
 			// 1. 파일 읽기
-			BufferedReader proFile = new BufferedReader(new FileReader("D:\\web_0226_lyh\\memo\\JavaProject\\txt\\professors.txt")),
-					subFile = new BufferedReader(new FileReader("D:\\web_0226_lyh\\memo\\JavaProject\\txt\\subjects.txt")),
-					stdFile = new BufferedReader(new FileReader("D:\\web_0226_lyh\\memo\\JavaProject\\txt\\students.txt"));
+			BufferedReader proFile = new BufferedReader(new FileReader("professors.txt")),
+					subFile = new BufferedReader(new FileReader("subjects.txt")),
+					stdFile = new BufferedReader(new FileReader("students.txt"));
 
 			// 2. 교수와 과목 정보 생성
 			while (true) {

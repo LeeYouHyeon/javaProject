@@ -9,7 +9,7 @@ kms;pass;김민수;010-;관악구;kms@nate;123477;
 psy;pass;박송이;010-;부산;psy@nate;123471;
 pks;pass;박관석;010-;강동구;pks@google;123458;COSE210;
 ID;password;name;010-1111-1111;address;email;stdCode;COSE214;COSE213;
-jja;pass;정지애;010-;일산시;jja@naver;123460;
+jja;pass;정지애;010-;서울시;jja@naver;123460;COSE220;COSE219;
 jhc;pass;조해찬;010-;강동구;jhc@naver;123474;
 jjh;pass;정진환;010-;강남구;jjh@nate;123476;
 ojh;pass;오지호;010-;광진구;ojh@gmail;123465;
